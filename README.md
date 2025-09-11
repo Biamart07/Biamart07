@@ -1,5 +1,5 @@
 
-**Biamart07/Biamart07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Biamart07/Biamart07** is a ✨ _special_ ✨ repository because its `README.md`
 
 <div align="center">
 <img src="https://ibb.co/whKTpqQM" align="center" height="" width="600" />
@@ -9,7 +9,7 @@
 ### <div align="center">I'm Beatriz, a front-end student developer! 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [V&M Artesanato: site para venda de artesanatos](https://github.com/Biamart07/vm-artesanato/tree/main)  
   
 
 - 🌱 I’m currently learning HTML, CSS e JavaScript  
