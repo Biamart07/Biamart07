@@ -95,7 +95,9 @@
 
 <br>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Biamart07&layout=compact&theme=shadow_red">
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Biamart07&layout=compact&theme=shadow_red">
+</p>
 
 <br>
 
