@@ -49,7 +49,7 @@
         <p align="center">
           Um e-commerce simulado desenvolvido durante o curso da Alura, aplicando conceitos de HTML e CSS para criar uma loja virtual responsiva.
           <br><br>
-          <a href="[LINK_PARA_SEU_REPOSITÓRIO_METEORA]" target="_blank">
+          <a href="https://github.com/Biamart07/projeto-meteora" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
           </a>
           </p>
