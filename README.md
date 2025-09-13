@@ -56,15 +56,15 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Desafios de Lógica em C</h3>
+      <h3 align="center">Site V&M Artesanato</h3>
       <p align="center">
-        <a href="[LINK_PARA_SEU_REPOSITÓRIO_COM_DESAFIOS_C]" target="_blank">
+        <a href="https://github.com/Biamart07/vm-artesanato" target="_blank">
           </a>
         <br>
         <p align="center">
-          Uma coleção de desafios para praticar lógica de programação em C, incluindo simulações de movimentos de xadrez e um jogo de batalha naval simplificado.
+          Site para venda de produtos, solicitado por uma empresa para venda de seus produtos artesanais.
           <br><br>
-          <a href="[https://github.com/Cursos-TI/desafio-xadrez-Biamart07]" target="_blank">
+          <a href="https://github.com/Biamart07/vm-artesanato" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
           </a>
         </p>
