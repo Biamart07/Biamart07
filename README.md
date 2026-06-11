@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4500&pause=2000&color=9370DB&center=true&vCenter=true&width=600&lines=Olá,%20sou%20Beatriz%20!%20&type=fade&v=6" alt="Gamer Pixel Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4500&pause=2000&color=9370DB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Beatriz+%21" alt="Gamer Pixel Text" />
 </p>
 
 <h2 style="border-bottom: none; margin-bottom: 15px;">Sobre Mim</h2>
